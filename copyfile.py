@@ -50,7 +50,7 @@ class file_processing():
 if __name__ == '__main__':
     # 경로 입력
     path = 'C:\\Users\\User\\algorighm-study'
-    copy_path = 'C:\\Users\\User\\hing9u-algorithm'
+    copy_path = 'C:\\Users\\User\\devpla-algorithm'
 
     # 파일 복사 조건
     name = 'yeonhee'
